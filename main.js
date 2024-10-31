@@ -20,7 +20,7 @@ const picOfDay = document.querySelector('#pod').value
     .then(data =>{
       console.log (data)//data come from the response abve
       
-      document.querySelector('h2').innerText = data.title
+      document.querySelector('h3').innerText = data.title
       document.querySelector('p').innerText = data.explanation
 
     //  if (picOfDay === undefined){
