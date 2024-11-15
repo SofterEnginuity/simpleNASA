@@ -3,8 +3,8 @@ Enter a date and NASA - yes THE NASA - will  give you a picture or video in rela
 
 **Link to project:** https://nasadays.netlify.app/
 
-![alt tag](https://i.imgur.com/zqytrg0.png)
 
+<img src="https://i.imgur.com/zqytrg0.png" width=40% height=40%>
 
 **Tech used:** HTML, CSS & Javascript
 
